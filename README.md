@@ -38,4 +38,7 @@ At first we may have concluded that tourists were using the service frequently, 
 
 Investors may want to consider, is Des Moines a city with a distinct city center, and extended hours with intense traffic? Locals may find bike rides to be an effective tool for avoiding congested roads. This service is most commonly used by subscribers, locals that use the service regularly. 
 
-I would reccomend a deeper analysis. Analysis of Des Moines Traffic, Population, and Concentration of the city center. 
+I would recommend creating a trip duration line graph comparing subscribers and customers to see if duration is different for riders that don't use regularly. Also a map showing most popular locations on the weekends. These additional visualizations may help us to more deeply understand our customers and how they use our bikes. This can be used to identify our target customer in Des Moines.
+
+I would also reccomend an analysis of Des Moines Traffic, Population, and Concentration of the city center, to help shape the target customer profile. 
+
