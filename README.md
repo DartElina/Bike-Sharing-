@@ -1,5 +1,5 @@
 # NYC Citi Bike-Sharing Analysis
-![View the story on Tableau](https://public.tableau.com/app/profile/elina.dart/viz/NYCBikeSharingChallenge_16723687524140/NYCBikeChallenge)
+![View the story on Tableau](https://public.tableau.com/views/NYCBikeSharingChallenge_16723687524140/NYCBikeChallenge?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Objective 
 For this Challenge we are analyzing the NYC Citi bike sharing program to create compelling visualizations of the data for investors considering a similar program in Des Moines. 
