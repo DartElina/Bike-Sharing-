@@ -2,10 +2,10 @@
 [View the story on Tableau](https://public.tableau.com/views/NYCBikeSharingChallenge_16723687524140/NYCBikeChallenge?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Objective 
-For this Challenge we are analyzing the NYC Citi bike sharing program to create compelling visualizations of the data for investors considering a similar program in Des Moines. 
+For this Challenge I am analyzing the NYC Citi bike sharing program using visualizations for investors considering a similar program in Des Moines, IA. 
 
 ## Analysis
-We are using Pandas first to transform the data, Tableau to create visualizations, and storyboards within Tableau to present to the investors. 
+I used Pandas first to transform the data, then loaded into Tableau to create visualizations, and storyboards within Tableau to present to the investors. 
 ### Data Source NYC Citi Bike August 2019 Ride Data
 ![Link to Citi Bike Data Source](https://ride.citibikenyc.com/system-data)
 
